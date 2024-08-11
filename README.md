@@ -10,9 +10,11 @@ CSS: Styling, layout, responsiveness
 JavaScript: Interactive elements, dynamic content, user experience enhancement
  Home Page
  
-![Screenshot (150)](https://github.com/user-attachments/assets/cbaf9139-ce4e-44c7-9671-2f19de589891)
+![Screenshot (150)](https://github.com/user-attachments/assets/cc705ad1-a9e2-49b4-927b-ce7576b545de)
 
 Other Pages
 
-![Screenshot (151)](https://github.com/user-attachments/assets/4b06b15b-0387-4afb-ae2c-30489a76551f)
+![Screenshot (151)](https://github.com/user-attachments/assets/175a3fa8-b918-488d-8a9d-f2e955f86efc)
+
+
 
