@@ -8,3 +8,5 @@ Key Skills
 HTML: Structure and content organization
 CSS: Styling, layout, responsiveness
 JavaScript: Interactive elements, dynamic content, user experience enhancement
+
+![Screenshot (150)](https://github.com/user-attachments/assets/cbaf9139-ce4e-44c7-9671-2f19de589891)
